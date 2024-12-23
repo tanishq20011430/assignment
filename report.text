@@ -1,0 +1,15 @@
+Summary: User Behavior, Cooking Preferences, and Order Trends
+Analysis of three datasets on user behavior, cooking preferences, and order trends will be presented in this discussion. The datasets include UserDetails, CookingSessions, and OrderDetails. Exploratory analysis was aimed at looking into the relationship of the user demographics, sessions for cooking, and orders as well as establishing trends useful for business decision-making purposes.
+
+Key Insights
+
+Popular Dishes & Meal Types: Spaghetti and Caesar Salad were the most ordered dishes. Dinner was the most ordered meal type, followed by Lunch and Breakfast.
+User Behavior: Users who are 40 years old and above ordered more. Users from New York and Los Angeles cities showed more activity.
+Session Details: Generally, longer sessions were associated with higher ratings for the session, which means that more elaborate meals may result in better user experiences.
+Order Trends: Orders for dinner peaked in the evening. Spaghetti and Grilled Chicken were the highest rated dishes, meaning users preferred these meals.
+Ratings and Cancellations: Most orders were completed with high ratings, but some orders were canceled, which means there is a need to develop strategies to reduce cancellations.
+Business Recommendations:
+
+Honing into Dinner meals and reaching into other ages with special promotions
+Getting through and creating awareness on why people cancel. Reward to decrease cancellation  Popular dishes that are consistently rated well such as: Grilled Chicken, spaghetti. Location-based approach is followed. Focus on hot spot areas like New York/Los Angeles. Make experience better so users want to stay longer, and can be more satisfied.
+This report is action-driven, which may assist in optimizing meal offerings, increasing user engagement, and growing business.
