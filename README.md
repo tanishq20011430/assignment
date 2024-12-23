@@ -94,5 +94,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 Contact
 
-For questions or further clarifications, contact Tanishq Soni at tanishq@email.com.
+For questions or further clarifications, contact Tanishq Soni at tanishqsoni81@gmail.com
 
